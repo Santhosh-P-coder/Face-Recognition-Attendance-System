@@ -1,0 +1,5 @@
+dataset/
+trainer/
+*.yml
+*.pickle
+__pycache__/
